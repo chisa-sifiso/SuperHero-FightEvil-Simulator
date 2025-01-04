@@ -40,7 +40,7 @@
 
    <h2>Author</h2>
     <p>
-        Created by Samukelo for educational purposes, demonstrating software reuse principles in object-oriented programming. Contributions are welcome!
+        Created by Sifiso vinjwa and samkule khumalo for educational purposes, demonstrating software reuse principles in object-oriented programming. Contributions are welcome!
     </p>
 </body>
 </html>
